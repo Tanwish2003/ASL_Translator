@@ -41,8 +41,10 @@ You Only Look Once (YOLO) family of detection frameworks aim to build a real tim
 ---
 ### **Demo**
 
-[![Watch the video](https://github.com/Tanwish2003/ASL_Translator/assets/101427402/9cae6528-54aa-41b1-bd10-94163e3dd03e)]
+CLICK ON IMAGE BELOW TO WATCH DEMO
 
+[<img src="https://th.bing.com/th/id/OIP.QVfbOcyK8ExX_XVXHaSwPwHaDe?rs=1&pid=ImgDetMain" width="600" height="300"
+/>](https://youtube.com/shorts/_72cppYpmA8?feature=share)
 
 
 ### **Installation**
